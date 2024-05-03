@@ -4,9 +4,9 @@ This is my Board of things I've loved learning!!!
 
 <h3>👩🏻‍💻 Programming Languages</h3>
   <p>
+      <a href="#"><img alt="C" src="https://img.shields.io/badge/C-67A5DB.svg?logo=C&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1572B6.svg?logo=C%2B%2B&logoColor=white"></a>
-      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C-67A5DB.svg?logo=C&logoColor=white"></a>
       <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-EB6E4b.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-77E868.svg?logo=Go&logoColor=white"></a>
       <a href="#"><img alt="csharp" src="https://img.shields.io/badge/C%23-512BD4.svg?logo=csharp&logoColor=white"></a>
